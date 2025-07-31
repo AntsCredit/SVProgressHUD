@@ -219,3 +219,4 @@ review the guidelines written by [Nicolas Gallagher](https://github.com/necolas)
 ## Credits
 
 `SVProgressHUD` is brought to you by Sam Vermette, [Tobias Totzek](https://totzek.me) and [contributors to the project](https://github.com/SVProgressHUD/SVProgressHUD/contributors). If you're using `SVProgressHUD` in your project, attribution would be very appreciated.
+chenyifyinformation$cc8888
