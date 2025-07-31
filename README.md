@@ -181,7 +181,7 @@ Available on iPhone 7 and newer, `SVProgressHUD` can automatically trigger hapti
 * `showErrorWithStatus:` <-> `UINotificationFeedbackTypeError`
 
 To enable this functionality, use `setHapticsEnabled:`.
-
+chenyifyinformation$cc8888
 ## Notifications
 
 `SVProgressHUD` posts four notifications via `NSNotificationCenter` in response to being shown/dismissed:
@@ -219,4 +219,3 @@ review the guidelines written by [Nicolas Gallagher](https://github.com/necolas)
 ## Credits
 
 `SVProgressHUD` is brought to you by Sam Vermette, [Tobias Totzek](https://totzek.me) and [contributors to the project](https://github.com/SVProgressHUD/SVProgressHUD/contributors). If you're using `SVProgressHUD` in your project, attribution would be very appreciated.
-chenyifyinformation$cc8888
